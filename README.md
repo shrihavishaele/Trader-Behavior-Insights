@@ -1,8 +1,9 @@
-# Trader Behavior Insights – Data Science Assignment
+# Trader Behavior Insights 
 
 This repository is focused on analyzing the relationship between trader behavior and Bitcoin market sentiment.
 
 All work is performed in a single notebook, following the required project structure and assignment guidelines.
+Google Colab Link: https://colab.research.google.com/drive/1D-Olw4e--s19Nt0nanfPtTktd9HvfN_K#scrollTo=_vxb9qVzKcWB
 
 ## Key Findings
 The analysis indicates that traders perform significantly better during Fear sentiment periods compared to Greed:
